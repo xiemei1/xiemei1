@@ -2,11 +2,11 @@
 
 <h1>Welcome to my World.....</h1> 
 
-<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/giphy.gif' alt = 'Awesome Matrix Code' align='right' height="600" width="300" style="transform:rotate(270deg);"/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/giphy.gif' alt = 'Awesome Matrix Code' align='right' height="450" width="250" style="transform:rotate(270deg);"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MeiXie-blue?style=flat-square&logo=Linkedin&logoColor=White&link=https://www.linkedin.com/in/mei-867253189/)](https://www.linkedin.com/in/mei-867253189/) [![Gmail Badge](https://img.shields.io/badge/-xiemei0728@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-xie_dahua-purple?style=flat-square&logo=Instagram&logoColor=White&link=https://www.instagram.com/xie_dahua/)](https://www.instagram.com/xie_dahua/)
 
-<div style="text-align: right">
+<div style="text-align: justify">
 Hello, I am <a href =''>Mei Xie</a>, a passionate data analyst from China living in Germany. I believe Data can create value in all businesses and change the world in many ways. My passion is to data help company people or companies create value for their businesses and implement potential products.
 </br>
 </br>
