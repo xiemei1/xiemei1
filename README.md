@@ -30,18 +30,18 @@ My motto is <b>it is never too old to learn, to challenge myself</b>. Therefore,
 
 ![pic](https://github.com/xiemei1/xiemei1/tree/master/imgs/python.png)
 
-<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/mysql.png' height='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/mysql.png' height='40'/>
 
-<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/html.svg' width='40'/>
-<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/css.svg' width='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/html.svg' width='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/css.svg' width='40'/>
 
-<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/git.png' width='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/git.png' width='40'/>
 
-<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/js.svg' width='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/js.svg' width='40'/>
 
-<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/R.png' width='40'/>
- <img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/cpp.svg' width='40'/>
-<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/c-original.svg' width='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/R.png' width='40'/>
+ <img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/cpp.svg' width='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/c-original.svg' width='40'/>
 
 ## Current Situation
 * Looking for a data analyst job
