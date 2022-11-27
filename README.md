@@ -12,6 +12,8 @@ Hello, I am <a href =''>Mei Xie</a>, a passionate data analyst from China living
 </br>
 My motto is <b>it is never too old to learn, to challenge myself</b>. Therefore, I am an open-source enthusiast. I have learned a lot from the open-source community and love collaborating with other specialists and sharing ideas and my sources.
 </div>
+</br>
+
 
 - 💼 any work? please contact me, [email](mailto:xiemayer@163.com) 
 - 💬 ask me about anything, I am happy to answer and help
@@ -25,6 +27,8 @@ My motto is <b>it is never too old to learn, to challenge myself</b>. Therefore,
 
 ## Programming Languages
 <img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/python.png' height='40'/>
+
+![pic](https://github.com/xiemei1/xiemei1/tree/master/imgs/python.png.png)
 
 <img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/mysql.png' height='40'/>
 
