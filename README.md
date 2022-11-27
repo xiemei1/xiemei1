@@ -2,7 +2,7 @@
 
 <h1>Welcome to my World.....</h1> 
 
-<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/giphy.gif' alt = 'Awesome Matrix Code' align='right' height="450" width="250" style="transform:rotate(270deg);"/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/giphy.gif' alt = 'Awesome Matrix Code' align='right' height="400" width="260" style="transform:rotate(270deg);"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MeiXie-blue?style=flat-square&logo=Linkedin&logoColor=White&link=https://www.linkedin.com/in/mei-867253189/)](https://www.linkedin.com/in/mei-867253189/) [![Gmail Badge](https://img.shields.io/badge/-xiemei0728@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-xie_dahua-purple?style=flat-square&logo=Instagram&logoColor=White&link=https://www.instagram.com/xie_dahua/)](https://www.instagram.com/xie_dahua/)
 
@@ -25,7 +25,6 @@ My motto is <b>it is never too old to learn, to challenge myself</b>. Therefore,
 * MLOPS
 * Data Science
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Programming Languages
 <img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/python.png' height='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/MySQL.svg' height='48'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/html.svg' width='30'/>
 <img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/css.svg' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/git.svg' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/js.svg' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/R.png' width='40'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/cpp.svg' width='30'/>
