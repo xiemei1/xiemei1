@@ -24,7 +24,7 @@ My motto is <b>it is never too old to learn, to challenge myself</b>. Therefore,
 * Deep Learning
 * MLOPS
 * Data Science
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Programming Languages
 <img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/python.png' height='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/MySQL.svg' height='48'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/html.svg' width='30'/>
 <img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/css.svg' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/git.svg' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/js.svg' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/R.png' width='40'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/cpp.svg' width='30'/>
