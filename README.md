@@ -2,7 +2,7 @@
 
 <h1>Welcome to my World.....</h1> 
 
-<img src = 'https://github.com/xiemei1/xiemei1.git/imgs/giphy.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/giphy.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MeiXie-blue?style=flat-square&logo=Linkedin&logoColor=White&link=https://www.linkedin.com/in/mei-867253189/)](https://www.linkedin.com/in/mei-867253189/) [![Gmail Badge](https://img.shields.io/badge/-xiemei0728@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-xie_dahua-purple?style=flat-square&logo=Instagram&logoColor=White&link=https://www.instagram.com/xie_dahua/)](https://www.instagram.com/xie_dahua/)
 
@@ -24,16 +24,20 @@ My motto is <b>it is never too old to learn, to challenge myself</b>. Therefore,
 * Data Science
 
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.png' height='40'/> 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/python.png' height='40'/>
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='40'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/mysql.png' height='40'/>
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='40'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/R.png' width='40'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='40'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/html.svg' width='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/css.svg' width='40'/>
+
+<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/git.png' width='40'/>
+
+<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/js.svg' width='40'/>
+
+<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/R.png' width='40'/>
+ <img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/cpp.svg' width='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/c-original.svg' width='40'/>
 
 ## Current Situation
 * Looking for a data analyst job
