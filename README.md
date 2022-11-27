@@ -26,9 +26,9 @@ My motto is <b>it is never too old to learn, to challenge myself</b>. Therefore,
 * Data Science
 
 ## Programming Languages
-<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/python.png' height='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/MySQL.svg' height='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/html.svg' width='30'/>
-<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/css.svg' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/git.svg' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/js.svg' width='20'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/R.png' width='20'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/cpp.svg' width='20'/>
-<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/c-original.svg' width='20'/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/python.png' height='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/MySQL.svg' height='40'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/html.svg' width='30'/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/css.svg' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/git.svg' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/js.svg' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/R.png' width='30'/><img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/cpp.svg' width='30'/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/c-original.svg' width='30'/>
 
 ## Current Situation
 * Looking for a data analyst job
