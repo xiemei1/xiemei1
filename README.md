@@ -26,7 +26,7 @@ My motto is <b>it is never too old to learn, to challenge myself</b>. Therefore,
 * Data Science
 
 ## Programming Languages
-<img src = 'https://github.com/xiemei1/xiemei1/tree/master/imgs/python.png' height='40'/>
+<img src = 'https://github.com/xiemei1/xiemei1/blob/master/imgs/python.png' height='40'/>
 
 ![pic](https://github.com/xiemei1/xiemei1/tree/master/imgs/python.png)
 
