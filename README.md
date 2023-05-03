@@ -15,8 +15,6 @@ My motto is <b>it is never too old to learn, to challenge myself</b>. Therefore,
 </br>
 
 
-- 💼 any work? please contact me, [email](mailto:xiemayer@163.com) 
-- 💬 ask me about anything, I am happy to answer and help
 
 ## Technologies Area
 * Data Analysis
