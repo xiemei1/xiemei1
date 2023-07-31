@@ -30,8 +30,7 @@ My motto is <b>it is never too old to learn, to challenge myself</b>. Therefore,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiemei1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Current Situation
-* Looking for a data analyst job
-* currently working on  building  my own blog  **Knowledge-based data science**  
+  
 
 
 
